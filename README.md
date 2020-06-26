@@ -1,5 +1,5 @@
 # Eagle-Shirts
 
-Good TShirts. 
+## Beautiful Handmade TShirts on a low budget
 
 https://github.com/Microflow/Eagle-Shirts/issues
